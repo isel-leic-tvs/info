@@ -3,6 +3,14 @@
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/isel-leic-tvs/info/blob/main/README.md)
 [![pt](https://img.shields.io/badge/lang-pt-green.svg)](https://github.com/isel-leic-tvs/info/blob/main/README.pt.md)
 
+**Informações institucionais**
+* [Informação oficial sobre a unidade curricular](https://www.isel.pt/leic/tecnicas-de-virtualizacao-de-sistemas)
+* [Informações gerais para estudantes Erasmus+ (*incoming*)](https://www.isel.pt/ensino/programas-de-mobilidade/erasmus-alunos-incoming/informacoes-gerais)
+
+*NOTA: as informações abaixo não são oficiais, podem estar desatualizadas e não substituem as informações institucionais oficiais*
+
+---
+
 | Informações Gerais        |                                        |
 |---------------------------|----------------------------------------|
 | Área Científica           | Informática e Computadores             |

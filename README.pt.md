@@ -7,14 +7,14 @@
 * [Informação oficial sobre a unidade curricular](https://www.isel.pt/leic/tecnicas-de-virtualizacao-de-sistemas)
 * [Informações gerais para estudantes Erasmus+ (*incoming*)](https://www.isel.pt/ensino/programas-de-mobilidade/erasmus-alunos-incoming/informacoes-gerais)
 
-*NOTA: as informações abaixo não são oficiais, podem estar desatualizadas e não substituem as informações institucionais oficiais*
+*NOTA: as informações abaixo não fornecidas por conveniência, mas estão incompletas, não são oficiais, podem estar desatualizadas e não substituem as informações institucionais oficiais*
 
 ---
 
 | Informações Gerais        |                                        |
 |---------------------------|----------------------------------------|
 | Área Científica           | Informática e Computadores             |
-| ECTS                      | 6                                      |
+| Créditos ECTS             | 6 créditos                             |
 | Grau, Ano/Semestre        | Licenciatura, 3º ano / 5º semestre     |
 | Língua                    | Português / Inglês                     |
 | Disponível em             | Semestre Outono/Inverno (Set. - Fev.)  |

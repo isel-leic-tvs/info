@@ -7,14 +7,14 @@
 * [Official course information](https://www.isel.pt/en/leic/systems-virtualization-techniques)
 * [General information for Erasmus+ incoming students](https://www.isel.pt/en/ensino/programas-de-mobilidade/erasmus-alunos-incoming/informacoes-gerais)
 
-*NOTE: all information below is not official, may be out of date, and does not replace official institutional information*
+*NOTE: the information below is provided for convenience, but it is incomplete, not official, may be out of date, and does not replace official institutional information*
 
 ---
 
 | General Information    |                                        |
 |------------------------|----------------------------------------|
 | Scientific Area        | Computer Science and Engineering       |
-| ECTS                   | 6                                      |
+| ECTS Credit Points     | 6 credit points                        |
 | Level, Year/Semester   | Undergraduate, 3rd year / 5th semester |
 | Language               | English / Portuguese                   |
 | Available in           | Autumn-Winter Semester (Sep. - Feb.)   |

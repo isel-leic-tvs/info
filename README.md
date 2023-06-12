@@ -27,7 +27,7 @@ Software deployment and execution frequently relies on virtualized computing inf
 In this course unit, we will explore these virtualization techniques, mainly from the perspective of software deployment, but also, when reasonable, looking at how each type of virtualization is achieved. During the semester, besides attending lectures, students will also work in groups to complete assigned coursework, exploring these subjects in practice. A final written test (usually in Jan./Feb.) will assess students' knowledge individually.
 
 #### Prerequisites
-* Students will need to write software in C, including interacting with the operating system. We expect at least two (but preferably three) semesters of programming experience, including some non-introductory programming experience in C.
+* Students will need to write software in C, including interacting with the operating system. We expect at least two (but preferably three) semesters of programming experience, using any language, but including some non-introductory programming experience in C.
 * Students are expected to know basic computer architecture, including some assembly language. Ideally, they would understand how a native computer program is executed.
 * We expect students to be familiar with multithreading and synchronization. Although the course is not particularly focused or heavy on these subjects, there will be no effort to circumvent them and they will be used when necessary.
 * We expect student to have basic knowledge about IP networks and to be able to write software using sockets, if needed.

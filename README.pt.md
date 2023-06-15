@@ -10,7 +10,6 @@
 ---
 
 #### Informações suplementares
-*As informações abaixo são fornecidas por conveniência, mas estão incompletas, não são oficiais, podem estar desatualizadas e não substituem as informações institucionais oficiais.*
 
 | Informações Gerais        |                                               |
 |---------------------------|-----------------------------------------------|
@@ -32,3 +31,5 @@ Nesta unidade curricular, exploraremos estas técnicas de virtualização, maior
 * É necessário ter conhecimentos elementares de arquitetura de computadores, incluindo alguma linguagem *assembly*.
 * Conta-se que os alunos estejam familiariados com *multithreading* e sincronização. Embora a unidade curricular não tenha um foco ou peso particular nestes assuntos, não existirá um esforço para os evitar e serão usados quando for necessário.
 * Os alunos devem ter conhecimentos essenciais sobre redes IP e ser capazes de escrever software usando *sockets*, se for necessário.
+
+*Aviso: as informações acima são fornecidas por conveniência e não substituem a informação institutional oficial.*

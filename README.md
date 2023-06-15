@@ -10,7 +10,6 @@
 ---
 
 #### Supplementary information
-*The information below is provided for convenience, but it is incomplete, not official, may be out of date, and does not replace official institutional information.*
 
 | General Information    |                                               |
 |------------------------|-----------------------------------------------|
@@ -32,3 +31,5 @@ In this course unit, we will explore these virtualization techniques, mainly fro
 * Students are expected to know basic computer architecture, including some assembly language. Ideally, they would understand how a native computer program is executed.
 * We expect students to be familiar with multithreading and synchronization. Although the course is not particularly focused or heavy on these subjects, there will be no effort to circumvent them and they will be used when necessary.
 * We expect student to have basic knowledge about IP networks and to be able to write software using sockets, if needed.
+
+*Disclaimer: The above information is provided for convenience and does not replace official institutional information.*

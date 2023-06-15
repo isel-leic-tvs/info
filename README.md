@@ -12,15 +12,15 @@
 #### Supplementary information
 *The information below is provided for convenience, but it is incomplete, not official, may be out of date, and does not replace official institutional information.*
 
-| General Information    |                                        |
-|------------------------|----------------------------------------|
-| Scientific Area        | Computer Science and Engineering       |
-| ECTS Credit Points     | 6 credit points                        |
-| Level, Year/Semester   | Undergraduate, 3rd year / 5th semester |
-| Language               | English or Portuguese                  |
-| Available in           | Autumn-Winter Semester (Sep. - Feb.)   |
-| In-class contact hours | 15 weeks x 4.5 hours per week in class |
-| Course Manager         | [João Trindade](joao.trindade@isel.pt) |
+| General Information    |                                               |
+|------------------------|-----------------------------------------------|
+| Scientific Area        | Computer Science and Engineering              |
+| ECTS Credit Points     | 6 credit points                               |
+| Level, Year/Semester   | Undergraduate, 3rd year / 5th semester        |
+| Language               | English or Portuguese                         |
+| Available in           | Autumn-Winter Semester (Sep. - Feb.)          |
+| In-class contact hours | 15 weeks x 4.5 hours per week in class        |
+| Course Manager         | [João Trindade](mailto:joao.trindade@isel.pt) |
 
 #### Description
 Software deployment and execution frequently relies on virtualized computing infrastructures, where the virtualization occurs in different levels and forms. In one of its most basic occurrences, operating systems generally allow multiple programs to execute simultaneously in (somehow) isolated environments called *processes*, where a program in execution appears to have a computing environment for itself. Some operating systems also offer, via *emulation*, the possibility of running software originally produced for a system with a very different microprocessor. In other cases, they allow running software programs designed for a different operating system. Additionally, there exists specialized system software that is able to provide, on top of a single physical system, multiple instances of virtual computers, usually known as *virtual machines*. Also, in a different level and form, we have systems ready to run containerized software, where a particular arrangement of software parts is set to run as a group of processes in a dedicated computing environment, known as a *container*, on top of an operating system.
